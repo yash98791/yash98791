@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yash98791
 - 👀 I’m interested in ...Software Developer,Web Devloper
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...yashthakur9865@gmail.com
 - 
